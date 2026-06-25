@@ -5,7 +5,7 @@
 
 저를 팔로우해주시면 정말 감사하겠습니다!
 
-https://github.com/yumiaura/mycat
+[![햄스터](이미지/햄스터.gif)](https://github.com/yumiaura/mycat)
 
 제 페이지를 방문해주셔서 감사합니다 
 
