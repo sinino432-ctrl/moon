@@ -5,7 +5,8 @@
 
 저를 팔로우해주시면 정말 감사하겠습니다!
 
-[![햄스터](이미지/햄스터.gif)](https://github.com/yumiaura/mycat)
+[![mouse](images/mouse.gif)](<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/bbd11bb7-823b-4796-a80b-0c7eed2fed3e" />
+)
 
 제 페이지를 방문해주셔서 감사합니다 
 
