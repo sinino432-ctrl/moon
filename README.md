@@ -6,7 +6,7 @@
 저를 팔로우해주시면 정말 감사하겠습니다!
 
 
-[![햄스터](<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/5b8c5b9a-ff54-4a5b-b95a-b273caf68e6f" />
+[![햄스터](<img width="334" height="334" alt="images" src="https://github.com/user-attachments/assets/5b8c5b9a-ff54-4a5b-b95a-b273caf68e6f" />
 ](https://github.com/yumiaura/mycat)
 
 
